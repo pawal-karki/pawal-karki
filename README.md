@@ -5,24 +5,24 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 ## 💻 Skills & Technologies
 
 ### Languages
-- ![Java](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java.svg)
-- ![JavaScript](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg)
-- ![Python](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python.svg)
-- ![SQL](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQL.svg)
+- ![Java](https://img.shields.io/badge/Java-%23E34A86?style=flat&logo=java&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-%233B77A8?style=flat&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-%2307405B?style=flat&logo=sqlite&logoColor=white)
 
 ### Frontend
-- ![React](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React.svg)
-- ![Flutter](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter.svg)
-- ![HTML](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg)
-- ![CSS](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg)
-- ![Tailwind CSS](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS.svg)
+- ![React](https://img.shields.io/badge/React-%23282C34?style=flat&logo=react&logoColor=61DAFB)
+- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### Backend
-- ![Django](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg)
-- ![PostgreSQL](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL.svg)
+- ![Django](https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233C7EBB?style=flat&logo=postgresql&logoColor=white)
 
 ## 🔧 Tools & Technologies
-- **Version Control:** ![Git](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg), GitHub
+- **Version Control:** ![Git](https://media.giphy.com/media/l4FGsGO6WQL4MmXrG/giphy.gif), GitHub
 - **Database Management:** PostgreSQL, SQL
 - **UI/UX Design:** Tailwind CSS, HTML, CSS
 
