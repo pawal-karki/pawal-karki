@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233C7EBB?style=flat&logo=postgresql&logoColor=white)
 
 ## 🔧 Tools & Technologies
-- **Version Control:** ![Git](https://media.giphy.com/media/l4FGsGO6WQL4MmXrG/giphy.gif), GitHub
+- **Version Control:** GitHub , Git
 - **Database Management:** PostgreSQL, SQL
 - **UI/UX Design:** Tailwind CSS, HTML, CSS
 
